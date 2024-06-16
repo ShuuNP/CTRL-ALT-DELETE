@@ -18,7 +18,7 @@ The system utilizes a modified version of Subramani and Rao’s Multi-ResEfficie
 
 **III.	Requirements**
 
-Running the program using the executable file does not require any installation.
+This software requires ffmpeg to run, or the program will not function properly.
 
 The program requires at least 400MB of free disk space. The program only works on Windows.
 
