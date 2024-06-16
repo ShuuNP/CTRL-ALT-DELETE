@@ -1,0 +1,12 @@
+Filename: 3_1.mp3
+Type: Synthesis
+Confidence Level: 85.24566089322244%
+
+Filename: Synth Audio 2.wav
+Type: Synthesis
+Confidence Level: 61.72754928067907%
+
+Filename: Synth Audio 2.wav
+Type: Synthesis
+Confidence Level: 61.72754928067907%
+
