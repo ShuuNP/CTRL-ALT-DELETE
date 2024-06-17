@@ -4,6 +4,7 @@
 This system is the Audio Modification Detection System. This system takes in voice audio files and detects any modifications or anomalies within those audio files. The system first determines whether the file is modified or not, and if it is modified, it also determines the kind of modification performed on that file.
 
 The executable file can be downloaded from this google drive link: https://drive.google.com/file/d/1K8UgSNPgacmzL7qJf6WOLxpcnmkR7W-7/view?usp=sharing
+version 0.2.0:https://drive.google.com/drive/u/0/folders/1WGeziEQWeOOVNj_MHEEiTaRBZXejAwp1
 
 To run the program, simply extract the file and open Start.exe. 
 
